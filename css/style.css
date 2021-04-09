@@ -19,7 +19,7 @@ header ul li a{display: block; color:#fff; font-size: 14px; font-weight: bold; t
 header ul li.active a{color:#ffcc00;}
 
 main{width: 700%; display: flex;}
-main .box{width: calc(100% / 7); height: 100vh; position: relative;}
+main .box{width: calc(100% / 7); height: 100vh; position: relative; }
 main .box:nth-child(1){background-color: red;}
 main .box:nth-child(2){background-color: orange;}
 main .box:nth-child(3){background-color: yellow;}
